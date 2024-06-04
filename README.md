@@ -37,27 +37,20 @@
 <ol>
     <li>
         <b>Clone the Repository</b>
-        <ul>
-            <li>
               <pre>
                 <code>
                   git clone https://github.com/KumarWayadande/tic-tac-toe.git
                   cd tic-tac-toe
                 </code>
               </pre>
-            </li>
-        </ul>
     </li>
     <li>
         <b>Run the game</b>
-        <ul>
-            <li>
               <pre><code>
                 npm install
                 npm run dev
-              </code></pre>
-            </li>
-        </ul>
+              </code>
+        </pre>
     </li>
 </ol>
 
