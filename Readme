@@ -1,0 +1,63 @@
+<h2>Tic Tac Toe Game</h2>
+<p>This is a simple implementation of the classic Tic Tac Toe game in Python. The game is designed to be played in the
+    console and supports two players. It is a great project for beginners to understand the basics of game development,
+    Python programming, and working with 2D arrays.</p>
+
+<h3>Features</h3>
+<ul>
+    <li>Two-player game mode</li>
+    <li>Interactive console interface</li>
+    <li>Simple and intuitive game mechanics</li>
+    <li>Clear and easy-to-understand code structure</li>
+</ul>
+
+<h3>How to play</h3>
+<ol>
+    <li><b>Start the Game:</b> Run the tic_tac_toe.py script to start the game.</li>
+    <li><b>Player Turns: </b>The game will prompt Player 1 (X) and Player 2 (O) to enter their moves alternately.</li>
+    <li><b>Making a Move:</b> Players input their move by entering the row and column number (e.g., 1 2 for row 1, column 2).
+    </li>
+    <li><b>Winning the Game:</b> The game will check for a win condition after each move. A player wins by placing three of
+        their marks in a horizontal, vertical, or diagonal row.</li>
+    <li><b>Draw Condition: </b>If all nine cells are filled and no player has three in a row, the game ends in a draw.</li>
+    <li><b>Restarting the Game:</b> After the game ends, players can choose to play again or exit.</li>
+</ol>
+
+<h3>Code Structure</h3>
+
+<ul>
+
+    <li>
+        <b>tic_tac_toe.py:</b> The main script containing the game logic, input handling, and win/draw condition checks.
+    </li>
+    <li>
+        <b>README.md:</b> This file, providing an overview of the project, how to play the game, and how to contribute.
+    </li>
+</ul>
+
+<h3>Installation</h3>
+<ol>
+    <li>
+        <b>Clone the Repository</b>
+        <ul>
+            <li>
+                git clone https://github.com/yourusername/tic-tac-toe.git
+                cd tic-tac-toe
+            </li>
+        </ul>
+    </li>
+    <li>
+        <b>Run the game</b>
+        <ul>
+            <li>
+                python tic_tac_toe.py
+            </li>
+        </ul>
+    </li>
+</ol>
+
+<hr />
+Enjoy playing Tic Tac Toe! If you have any questions or need further assistance, feel free to contact the repository owner. Happy coding!
+
+
+<p><b>All rights are reserved by project owner - Kumar Wayadande</p></b>
