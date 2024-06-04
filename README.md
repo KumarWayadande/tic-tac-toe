@@ -84,6 +84,17 @@
   </li>
 </ol>
 
+
+<h3>Output - snapshots</h3>
+<img src="https://github.com/KumarWayadande/tic-tac-toe/assets/109848479/d45a74f7-e243-4bda-aac1-81fa1259da69" />
+<hr />
+<img src="https://github.com/KumarWayadande/tic-tac-toe/assets/109848479/2c6b12ff-0c73-45e5-b91b-1863f59d68db" />
+<hr />
+<img src="https://github.com/KumarWayadande/tic-tac-toe/assets/109848479/d57cc258-46f7-4aaf-b9e2-5cda14390288" />
+<hr />
+<img src="https://github.com/KumarWayadande/tic-tac-toe/assets/109848479/82bedc47-ba95-41e5-a2c1-3d40050a481b" />
+<hr />
+
 <hr />
 Enjoy playing Tic Tac Toe! If you have any questions or need further assistance, feel free to contact the repository owner. Happy coding!
 
