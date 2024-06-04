@@ -37,19 +37,20 @@
 <ol>
     <li>
         <b>Clone the Repository</b>
-              <pre>
-                <code>
-                  git clone https://github.com/KumarWayadande/tic-tac-toe.git
-                  cd tic-tac-toe
-                </code>
-              </pre>
+  <pre>
+    <code>
+    git clone https://github.com/KumarWayadande/tic-tac-toe.git
+    cd tic-tac-toe
+    </code>
+  </pre>
     </li>
     <li>
         <b>Run the game</b>
-              <pre><code>
-                npm install
-                npm run dev
-              </code>
+          <pre>
+<code>
+    npm install
+    npm run dev
+      </code>
         </pre>
     </li>
 </ol>
@@ -60,25 +61,25 @@
   <li>Fork the repository</li>
   <li>Create a new branch
     <pre>
-      <code>
-        git checkout -b feature-or-bugfix-branch
-      </code>
+  <code>
+    git checkout -b feature-or-bugfix-branch
+  </code>
     </pre>
   </li>
   <li>
     Commit your changes
     <pre>
-      <code>
-        git commit -m "Description of changes"
-      </code>
+  <code>
+    git commit -m "Description of changes"
+  </code>
     </pre>
   </li>
   <li>
     Push to a branch
     <pre>
-      <code>
-        git push origin feature-or-bugfix-branch
-      </code>
+  <code>
+    git push origin feature-or-bugfix-branch
+  </code>
     </pre>
   </li>
 </ol>
